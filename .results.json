@@ -1,1 +1,1 @@
-{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:TestVariables", "name": "test_travel_month", "time": 0.00028824806213378906, "type": "success"}]}
+{"stats": {"errors": 0, "failures": 0, "passes": 1, "skipped": 0, "encoding": "UTF-8", "total": 1}, "results": [{"classname": "index_test:TestVariables", "name": "test_travel_month", "time": 0.0002617835998535156, "type": "success"}]}
